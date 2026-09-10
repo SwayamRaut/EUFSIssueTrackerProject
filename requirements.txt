@@ -1,0 +1,7 @@
+fastapi
+fastapi-cli
+uvicorn
+sqlalchemy
+alembic
+psycopg2-binary
+pydantic

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c4c1522e-9dde-47c3-adbc-1f156e05fc55",
+    "title": "Issue One",
+    "description": "This is the updated issue",
+    "priority": "medium",
+    "status": "open"
+  },
+  {
+    "id": "6f3669bf-0299-4b33-8210-8b6ec5320f3d",
+    "title": "Test issue",
+    "description": "Testing curl works",
+    "priority": "high",
+    "status": "open"
+  }
+]
