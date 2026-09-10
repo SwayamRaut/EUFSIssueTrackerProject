@@ -3,6 +3,12 @@ services:
     build: .
     ports:
       - "8000:5000"
+    environment:
+      DB_USER: postgres
+      DB_PASSWORD: "123"
+      DB_HOST: db
+      DB_PORT: "5432"
+      DB_NAME: issue_tracker
 
   db:
     image: postgres:18
